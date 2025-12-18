@@ -20,6 +20,7 @@ only practice
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,9 @@ only practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
