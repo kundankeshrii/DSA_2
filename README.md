@@ -11,6 +11,7 @@ only practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +59,12 @@ only practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+## Graph
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
