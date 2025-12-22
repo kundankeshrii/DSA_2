@@ -26,6 +26,7 @@ only practice
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
@@ -34,23 +35,27 @@ only practice
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -82,4 +87,16 @@ only practice
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
