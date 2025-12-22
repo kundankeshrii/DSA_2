@@ -27,6 +27,7 @@ only practice
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
+| [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ only practice
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
+| [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +51,7 @@ only practice
 | ------- |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
