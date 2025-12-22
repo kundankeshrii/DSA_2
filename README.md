@@ -11,6 +11,7 @@ only practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/kundankeshrii/DSA_2/tree/master/0118-pascals-triangle) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -20,6 +21,7 @@ only practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kundankeshrii/DSA_2/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
