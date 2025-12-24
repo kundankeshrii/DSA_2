@@ -8,6 +8,7 @@ only practice
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ only practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
