@@ -37,6 +37,7 @@ only practice
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +128,5 @@ only practice
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
