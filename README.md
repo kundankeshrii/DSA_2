@@ -45,6 +45,7 @@ only practice
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
+| [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -58,6 +59,7 @@ only practice
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
+| [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
+| [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
@@ -134,6 +137,7 @@ only practice
 | [0215-kth-largest-element-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
+| [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -159,4 +163,8 @@ only practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
