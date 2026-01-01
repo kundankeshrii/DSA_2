@@ -31,6 +31,7 @@ only practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kundankeshrii/DSA_2/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@ only practice
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 ## Binary Search
