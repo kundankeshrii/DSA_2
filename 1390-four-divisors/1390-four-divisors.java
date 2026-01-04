@@ -3,11 +3,16 @@ class Solution {
         int i=1;
         int sum=0;
         int cnt=0;
-        // int sqRoot=Math.sqrt(n);
-        while(i<=n){
+        while(i*i<=n){
             if(n%i==0){
+                int d1=i;
+                int d2=n/i;
                 cnt++;
-                sum+=i;
+                sum+=d1;
+                if(d1!=d2){
+                    cnt++;
+                    sum+=d2;
+                }
                 if(cnt>4) break;
             }
             i++;
