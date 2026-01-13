@@ -61,6 +61,7 @@ only practice
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ only practice
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
+| [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
