@@ -63,6 +63,7 @@ only practice
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kundankeshrii/DSA_2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ only practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Graph
 |  |
 | ------- |
