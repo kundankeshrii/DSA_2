@@ -33,6 +33,7 @@ only practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +93,7 @@ only practice
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0215-kth-largest-element-in-an-array) |
@@ -265,4 +267,5 @@ only practice
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
