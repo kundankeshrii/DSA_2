@@ -32,6 +32,7 @@ only practice
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
@@ -260,4 +261,8 @@ only practice
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
