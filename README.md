@@ -268,4 +268,8 @@ only practice
 | ------- |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kundankeshrii/DSA_2/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
