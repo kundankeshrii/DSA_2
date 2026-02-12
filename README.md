@@ -62,6 +62,7 @@ only practice
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/kundankeshrii/DSA_2/tree/master/1991-find-the-middle-index-in-array) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kundankeshrii/DSA_2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -177,6 +178,7 @@ only practice
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
+| [1991-find-the-middle-index-in-array](https://github.com/kundankeshrii/DSA_2/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kundankeshrii/DSA_2/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
