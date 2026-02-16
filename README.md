@@ -144,6 +144,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/kundankeshrii/DSA_2/tree/master/2119-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
 | ------- |
