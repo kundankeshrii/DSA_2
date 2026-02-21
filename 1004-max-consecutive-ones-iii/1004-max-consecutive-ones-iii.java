@@ -5,7 +5,7 @@ class Solution {
         int left=0,right=0;
          while(right<n){
             if(nums[right]==0) zeros++;
-            while(zeros>k){
+            if(zeros>k){
                 if(nums[left]==0) zeros--;
                     left++;
             }
