@@ -176,6 +176,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/kundankeshrii/DSA_2/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/kundankeshrii/DSA_2/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Graph
 |  |
