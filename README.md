@@ -11,6 +11,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
@@ -87,6 +88,7 @@ only practice
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -237,6 +239,7 @@ only practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
