@@ -15,6 +15,7 @@ only practice
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kundankeshrii/DSA_2/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
@@ -94,6 +95,7 @@ only practice
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kundankeshrii/DSA_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kundankeshrii/DSA_2/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
@@ -177,6 +179,7 @@ only practice
 | [0401-binary-watch](https://github.com/kundankeshrii/DSA_2/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kundankeshrii/DSA_2/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Graph
 |  |
@@ -337,4 +340,12 @@ only practice
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
