@@ -67,6 +67,7 @@ only practice
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
@@ -124,6 +125,7 @@ only practice
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kundankeshrii/DSA_2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -237,6 +239,7 @@ only practice
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
@@ -246,6 +249,7 @@ only practice
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
