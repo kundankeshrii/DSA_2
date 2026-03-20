@@ -85,6 +85,7 @@ only practice
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/kundankeshrii/DSA_2/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kundankeshrii/DSA_2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -134,6 +135,7 @@ only practice
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kundankeshrii/DSA_2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kundankeshrii/DSA_2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
@@ -251,6 +253,7 @@ only practice
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kundankeshrii/DSA_2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kundankeshrii/DSA_2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kundankeshrii/DSA_2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Greedy
 |  |
 | ------- |
