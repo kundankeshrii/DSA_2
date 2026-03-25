@@ -25,6 +25,7 @@ only practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kundankeshrii/DSA_2/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kundankeshrii/DSA_2/tree/master/0118-pascals-triangle) |
@@ -45,6 +46,7 @@ only practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kundankeshrii/DSA_2/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/kundankeshrii/DSA_2/tree/master/0055-jump-game) |
@@ -281,6 +283,7 @@ only practice
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kundankeshrii/DSA_2/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
