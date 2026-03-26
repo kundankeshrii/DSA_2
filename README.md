@@ -34,6 +34,7 @@ only practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kundankeshrii/DSA_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kundankeshrii/DSA_2/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0213-house-robber-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Stack
@@ -72,6 +73,7 @@ only practice
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kundankeshrii/DSA_2/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kundankeshrii/DSA_2/tree/master/0238-product-of-array-except-self) |
