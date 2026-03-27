@@ -9,6 +9,7 @@ only practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kundankeshrii/DSA_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
@@ -50,6 +51,7 @@ only practice
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kundankeshrii/DSA_2/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
@@ -460,4 +462,8 @@ only practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kundankeshrii/DSA_2/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
