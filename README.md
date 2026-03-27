@@ -7,6 +7,7 @@ only practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
@@ -121,6 +122,7 @@ only practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
@@ -193,6 +195,7 @@ only practice
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kundankeshrii/DSA_2/tree/master/0070-climbing-stairs) |
