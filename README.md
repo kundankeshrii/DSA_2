@@ -14,6 +14,7 @@ only practice
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
@@ -140,6 +141,7 @@ only practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kundankeshrii/DSA_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
@@ -362,6 +364,7 @@ only practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
