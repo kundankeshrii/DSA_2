@@ -60,6 +60,7 @@ only practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/kundankeshrii/DSA_2/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/kundankeshrii/DSA_2/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kundankeshrii/DSA_2/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ only practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kundankeshrii/DSA_2/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0088-merge-sorted-array) |
@@ -203,6 +205,7 @@ only practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kundankeshrii/DSA_2/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kundankeshrii/DSA_2/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kundankeshrii/DSA_2/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
