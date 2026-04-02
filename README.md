@@ -12,6 +12,7 @@ only practice
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
@@ -141,6 +142,7 @@ only practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kundankeshrii/DSA_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
@@ -367,6 +369,7 @@ only practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0219-contains-duplicate-ii) |
