@@ -233,6 +233,7 @@ only practice
 | [0012-integer-to-roman](https://github.com/kundankeshrii/DSA_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kundankeshrii/DSA_2/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kundankeshrii/DSA_2/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kundankeshrii/DSA_2/tree/master/0069-sqrtx) |
@@ -527,4 +528,8 @@ only practice
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kundankeshrii/DSA_2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kundankeshrii/DSA_2/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
