@@ -527,9 +527,11 @@ only practice
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kundankeshrii/DSA_2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kundankeshrii/DSA_2/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
