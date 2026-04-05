@@ -401,6 +401,7 @@ only practice
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
@@ -414,6 +415,7 @@ only practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
@@ -429,6 +431,7 @@ only practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -439,6 +442,7 @@ only practice
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
