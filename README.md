@@ -86,6 +86,7 @@ only practice
 | [0134-gas-station](https://github.com/kundankeshrii/DSA_2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundankeshrii/DSA_2/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/kundankeshrii/DSA_2/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kundankeshrii/DSA_2/tree/master/0198-house-robber) |
@@ -258,6 +259,7 @@ only practice
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/kundankeshrii/DSA_2/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
