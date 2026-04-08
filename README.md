@@ -275,6 +275,7 @@ only practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kundankeshrii/DSA_2/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
@@ -292,6 +293,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/kundankeshrii/DSA_2/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0693-binary-number-with-alternating-bits) |
@@ -420,6 +422,7 @@ only practice
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -472,6 +475,7 @@ only practice
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
