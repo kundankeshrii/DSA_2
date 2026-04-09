@@ -14,26 +14,16 @@
  * }
  */
 class Solution {
-    List<String>ans=new ArrayList<>();
-    StringBuilder sb=new StringBuilder();
     public int sumNumbers(TreeNode root) {
-        helper(root);
-        int sum=0;
-        for(int i=0;i<ans.size();i++){
-            sum+=Integer.parseInt(ans.get(i));
-        }
-        return sum;
+        return helper(root,0);
     }
-    private void helper(TreeNode root){
-        if(root==null) return;
-        sb.append(root.val);
+    private int helper(TreeNode root,int current){
+        if(root==null) return 0;
+        current=(current*10)+root.val;
         if(root.left==null && root.right==null){
-           ans.add(sb.toString());
-        }else{
-        helper(root.left);
-        helper(root.right);
+            return current;
         }
-        sb.deleteCharAt(sb.length()-1);
-
+        return helper(root.left,current) + helper(root.right,current);
+        
     }
 }
