@@ -58,6 +58,7 @@ only practice
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
+| [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -427,6 +428,7 @@ only practice
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -483,6 +485,7 @@ only practice
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -533,6 +536,7 @@ only practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
@@ -559,6 +563,7 @@ only practice
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 ## Counting Sort
 |  |
@@ -590,4 +595,8 @@ only practice
 | [0002-add-two-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kundankeshrii/DSA_2/tree/master/0050-powx-n) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
