@@ -59,6 +59,7 @@ only practice
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -577,6 +578,7 @@ only practice
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 ## Counting Sort
