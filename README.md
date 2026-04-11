@@ -59,6 +59,7 @@ only practice
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
@@ -95,6 +96,7 @@ only practice
 | [0128-longest-consecutive-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kundankeshrii/DSA_2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundankeshrii/DSA_2/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kundankeshrii/DSA_2/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
@@ -259,6 +261,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kundankeshrii/DSA_2/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kundankeshrii/DSA_2/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
