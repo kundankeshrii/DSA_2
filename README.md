@@ -428,6 +428,7 @@ only practice
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0102-binary-tree-level-order-traversal) |
@@ -454,6 +455,7 @@ only practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -494,6 +496,7 @@ only practice
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0102-binary-tree-level-order-traversal) |
@@ -557,6 +560,7 @@ only practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
