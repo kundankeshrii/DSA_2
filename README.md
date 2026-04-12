@@ -445,6 +445,7 @@ only practice
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -467,6 +468,7 @@ only practice
 | [0199-binary-tree-right-side-view](https://github.com/kundankeshrii/DSA_2/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -487,6 +489,7 @@ only practice
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kundankeshrii/DSA_2/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -513,6 +516,7 @@ only practice
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -562,6 +566,7 @@ only practice
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
