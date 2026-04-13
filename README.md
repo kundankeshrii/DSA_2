@@ -99,6 +99,7 @@ only practice
 | [0134-gas-station](https://github.com/kundankeshrii/DSA_2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundankeshrii/DSA_2/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kundankeshrii/DSA_2/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kundankeshrii/DSA_2/tree/master/0162-find-peak-element) |
@@ -165,6 +166,7 @@ only practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
@@ -265,6 +267,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kundankeshrii/DSA_2/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kundankeshrii/DSA_2/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
@@ -537,6 +540,7 @@ only practice
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 ## Union Find
 |  |
