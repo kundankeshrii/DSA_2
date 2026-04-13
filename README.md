@@ -110,6 +110,7 @@ only practice
 | [0213-house-robber-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/kundankeshrii/DSA_2/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kundankeshrii/DSA_2/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
