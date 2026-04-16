@@ -10,27 +10,44 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        TreeNode dummyHead=TreeNode(-1);
-        TreeNode prev=dummyHead;
-        TreeNode tail=head;
-        for(int i=0;i<k-1;++i){
-            tail=tail.next;
+        ListNode temp=head; ListNode nextNode; ListNode prevNode=null;
+        while(temp!=null){
+            ListNode kthNode=findkthNode(temp,k);
+            if(kthNode==null) {
+                if(prevNode!=null){
+                    prevNode.next=temp;
+                    break;
+                }
+            }
+        nextNode=kthNode.next;
+        kthNode.next=null;
+        reverse(temp);
+        if(temp==head){
+            head=kthNode;
+        }else{
+            prevNode.next=kthNode;
         }
-        prev=head;
-        head=tail.next;
-        tail.next=null;
-        reverse(head,tail);
-        prev.next=head;
+            prevNode=temp;
+            temp=nextNode;
+        }
+    return head;
     }
-    private void reverse(TreeNode head,TreeNode tail){
-        TreeNode curr=head;TreeNode prev=null;TreeNode next=curr;
-        while(curr!=null){
-            next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+    private ListNode findkthNode(ListNode temp, int k){
+        k=k-1;
+        while(temp!=null && k>0){
+            k--;
+            temp=temp.next;
         }
-        head=tail;
-        tail=next;
+        return temp;
+    }
+    private ListNode reverse(ListNode head){
+        ListNode temp=head; ListNode prevNode=null;ListNode nextNode;
+        while(temp!=null){
+            nextNode=temp.next;
+            temp.next=prevNode;
+            prevNode=temp;
+            temp=nextNode;
+        }
+        return head;
     }
 }
