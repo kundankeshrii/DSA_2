@@ -582,6 +582,7 @@ only practice
 | ------- |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/kundankeshrii/DSA_2/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/kundankeshrii/DSA_2/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kundankeshrii/DSA_2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
