@@ -11,6 +11,7 @@ only practice
 | [0012-integer-to-roman](https://github.com/kundankeshrii/DSA_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
@@ -39,6 +40,7 @@ only practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0045-jump-game-ii) |
@@ -580,6 +582,7 @@ only practice
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kundankeshrii/DSA_2/tree/master/0077-combinations) |
