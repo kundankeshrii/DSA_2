@@ -203,6 +203,7 @@ only practice
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0191-number-of-1-bits) |
@@ -218,6 +219,7 @@ only practice
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0229-majority-element-ii) |
@@ -262,6 +264,7 @@ only practice
 | [0088-merge-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
@@ -672,6 +675,7 @@ only practice
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -696,4 +700,5 @@ only practice
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
