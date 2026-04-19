@@ -78,6 +78,7 @@ only practice
 | [0027-remove-element](https://github.com/kundankeshrii/DSA_2/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kundankeshrii/DSA_2/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/kundankeshrii/DSA_2/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kundankeshrii/DSA_2/tree/master/0046-permutations) |
@@ -169,6 +170,7 @@ only practice
 | [0012-integer-to-roman](https://github.com/kundankeshrii/DSA_2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kundankeshrii/DSA_2/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/kundankeshrii/DSA_2/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/kundankeshrii/DSA_2/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -383,6 +385,7 @@ only practice
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kundankeshrii/DSA_2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kundankeshrii/DSA_2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kundankeshrii/DSA_2/tree/master/0073-set-matrix-zeroes) |
