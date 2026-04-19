@@ -71,6 +71,7 @@ only practice
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kundankeshrii/DSA_2/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kundankeshrii/DSA_2/tree/master/0015-3sum) |
@@ -201,6 +202,7 @@ only practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
@@ -300,6 +302,7 @@ only practice
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kundankeshrii/DSA_2/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kundankeshrii/DSA_2/tree/master/0069-sqrtx) |
