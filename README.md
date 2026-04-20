@@ -63,6 +63,7 @@ only practice
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kundankeshrii/DSA_2/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
@@ -472,6 +473,7 @@ only practice
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
@@ -498,6 +500,7 @@ only practice
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/kundankeshrii/DSA_2/tree/master/0130-surrounded-regions) |
@@ -553,6 +556,7 @@ only practice
 | [0110-balanced-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
@@ -677,6 +681,7 @@ only practice
 | [0025-reverse-nodes-in-k-group](https://github.com/kundankeshrii/DSA_2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 ## Recursion
