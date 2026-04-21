@@ -16,6 +16,7 @@ only practice
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/kundankeshrii/DSA_2/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/0125-valid-palindrome) |
@@ -91,6 +92,7 @@ only practice
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kundankeshrii/DSA_2/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/kundankeshrii/DSA_2/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kundankeshrii/DSA_2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -455,6 +457,7 @@ only practice
 | ------- |
 | [0054-spiral-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundankeshrii/DSA_2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
