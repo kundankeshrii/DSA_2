@@ -22,6 +22,7 @@ only practice
 | [0125-valid-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kundankeshrii/DSA_2/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kundankeshrii/DSA_2/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kundankeshrii/DSA_2/tree/master/0383-ransom-note) |
@@ -69,6 +70,7 @@ only practice
 | [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -296,6 +298,7 @@ only practice
 | [0150-evaluate-reverse-polish-notation](https://github.com/kundankeshrii/DSA_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
@@ -702,6 +705,7 @@ only practice
 | [0021-merge-two-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kundankeshrii/DSA_2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kundankeshrii/DSA_2/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 ## Iterator
 |  |
 | ------- |
