@@ -130,6 +130,7 @@ only practice
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kundankeshrii/DSA_2/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kundankeshrii/DSA_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
@@ -411,6 +412,7 @@ only practice
 | [0130-surrounded-regions](https://github.com/kundankeshrii/DSA_2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kundankeshrii/DSA_2/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -466,6 +468,7 @@ only practice
 | [0054-spiral-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundankeshrii/DSA_2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
