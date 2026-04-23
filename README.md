@@ -57,6 +57,7 @@ only practice
 | [0139-word-break](https://github.com/kundankeshrii/DSA_2/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kundankeshrii/DSA_2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -134,6 +135,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kundankeshrii/DSA_2/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kundankeshrii/DSA_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -561,6 +563,7 @@ only practice
 | [0207-course-schedule](https://github.com/kundankeshrii/DSA_2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
