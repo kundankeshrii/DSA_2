@@ -57,6 +57,7 @@ only practice
 | [0139-word-break](https://github.com/kundankeshrii/DSA_2/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kundankeshrii/DSA_2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -135,6 +136,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kundankeshrii/DSA_2/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kundankeshrii/DSA_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -334,6 +336,7 @@ only practice
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
