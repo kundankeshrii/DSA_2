@@ -28,6 +28,7 @@ only practice
 | [0242-valid-anagram](https://github.com/kundankeshrii/DSA_2/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kundankeshrii/DSA_2/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kundankeshrii/DSA_2/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
@@ -148,6 +149,7 @@ only practice
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kundankeshrii/DSA_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
@@ -383,6 +385,7 @@ only practice
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Prefix Sum
 |  |
@@ -554,6 +557,7 @@ only practice
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -582,6 +586,7 @@ only practice
 | [0210-course-schedule-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -640,6 +645,7 @@ only practice
 | [0128-longest-consecutive-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kundankeshrii/DSA_2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kundankeshrii/DSA_2/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kundankeshrii/DSA_2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -649,6 +655,7 @@ only practice
 | [0133-clone-graph](https://github.com/kundankeshrii/DSA_2/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kundankeshrii/DSA_2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kundankeshrii/DSA_2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Backtracking
