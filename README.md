@@ -205,6 +205,7 @@ only practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kundankeshrii/DSA_2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kundankeshrii/DSA_2/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/kundankeshrii/DSA_2/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kundankeshrii/DSA_2/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
@@ -741,6 +742,7 @@ only practice
 | [0092-reverse-linked-list-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/kundankeshrii/DSA_2/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 ## Recursion
