@@ -69,6 +69,7 @@ only practice
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -337,6 +338,7 @@ only practice
 | [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
