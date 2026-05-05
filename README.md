@@ -774,6 +774,7 @@ only practice
 | [0138-copy-list-with-random-pointer](https://github.com/kundankeshrii/DSA_2/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
+| [0725-split-linked-list-in-parts](https://github.com/kundankeshrii/DSA_2/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
