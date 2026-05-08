@@ -201,6 +201,7 @@ only practice
 | [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kundankeshrii/DSA_2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kundankeshrii/DSA_2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kundankeshrii/DSA_2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/kundankeshrii/DSA_2/tree/master/3660-jump-game-ix) |
@@ -243,6 +244,7 @@ only practice
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [2661-first-completely-painted-row-or-column](https://github.com/kundankeshrii/DSA_2/tree/master/2661-first-completely-painted-row-or-column) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
@@ -355,6 +357,7 @@ only practice
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundankeshrii/DSA_2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2961-double-modular-exponentiation](https://github.com/kundankeshrii/DSA_2/tree/master/2961-double-modular-exponentiation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kundankeshrii/DSA_2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
 |  |
 | ------- |
@@ -624,6 +627,7 @@ only practice
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kundankeshrii/DSA_2/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -818,4 +822,8 @@ only practice
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
