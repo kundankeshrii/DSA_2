@@ -180,6 +180,7 @@ only practice
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kundankeshrii/DSA_2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kundankeshrii/DSA_2/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kundankeshrii/DSA_2/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -473,6 +474,7 @@ only practice
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kundankeshrii/DSA_2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [2661-first-completely-painted-row-or-column](https://github.com/kundankeshrii/DSA_2/tree/master/2661-first-completely-painted-row-or-column) |
@@ -527,6 +529,7 @@ only practice
 | [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1914-cyclically-rotating-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundankeshrii/DSA_2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2961-double-modular-exponentiation](https://github.com/kundankeshrii/DSA_2/tree/master/2961-double-modular-exponentiation) |
