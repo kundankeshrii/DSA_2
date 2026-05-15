@@ -3,17 +3,14 @@ class Solution {
         int n=nums.length;
         int start=0;
         int end=n-1;
-        int ans=Integer.MAX_VALUE;
-        while(start<=end){
+        while(start<end){
             int mid=start+(end-start)/2;
-            if(nums[start]<=nums[mid]){
-                ans=Math.min(ans,nums[start]);
+            if(nums[mid]<nums[end]){
+                end=mid;
+            }else if(nums[mid]>nums[end]){
                 start=mid+1;
-            }else{
-                ans=Math.min(ans,nums[mid]);
-                end=mid-1;
             }
         }
-        return ans;
+        return nums[end];
     }
 }
