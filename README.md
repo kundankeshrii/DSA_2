@@ -45,6 +45,7 @@ only practice
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kundankeshrii/DSA_2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kundankeshrii/DSA_2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kundankeshrii/DSA_2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -262,6 +263,7 @@ only practice
 | [2661-first-completely-painted-row-or-column](https://github.com/kundankeshrii/DSA_2/tree/master/2661-first-completely-painted-row-or-column) |
 | [2784-check-if-array-is-good](https://github.com/kundankeshrii/DSA_2/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kundankeshrii/DSA_2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kundankeshrii/DSA_2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
