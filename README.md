@@ -210,6 +210,7 @@ only practice
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kundankeshrii/DSA_2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kundankeshrii/DSA_2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kundankeshrii/DSA_2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -408,6 +409,7 @@ only practice
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/kundankeshrii/DSA_2/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kundankeshrii/DSA_2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kundankeshrii/DSA_2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -755,6 +757,7 @@ only practice
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
@@ -863,4 +866,8 @@ only practice
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
