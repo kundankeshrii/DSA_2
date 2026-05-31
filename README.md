@@ -157,6 +157,7 @@ only practice
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kundankeshrii/DSA_2/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/kundankeshrii/DSA_2/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
@@ -351,6 +352,7 @@ only practice
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/kundankeshrii/DSA_2/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
@@ -403,6 +405,7 @@ only practice
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kundankeshrii/DSA_2/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
@@ -426,6 +429,7 @@ only practice
 | [0201-bitwise-and-of-numbers-range](https://github.com/kundankeshrii/DSA_2/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kundankeshrii/DSA_2/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/kundankeshrii/DSA_2/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kundankeshrii/DSA_2/tree/master/0868-binary-gap) |
