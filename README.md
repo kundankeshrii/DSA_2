@@ -92,6 +92,7 @@ only practice
 | [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -352,6 +353,7 @@ only practice
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kundankeshrii/DSA_2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kundankeshrii/DSA_2/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
@@ -834,6 +836,7 @@ only practice
 | [0138-copy-list-with-random-pointer](https://github.com/kundankeshrii/DSA_2/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kundankeshrii/DSA_2/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
@@ -843,6 +846,7 @@ only practice
 | [0025-reverse-nodes-in-k-group](https://github.com/kundankeshrii/DSA_2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kundankeshrii/DSA_2/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
 ## Iterator
 |  |
 | ------- |
