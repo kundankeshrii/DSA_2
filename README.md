@@ -192,6 +192,7 @@ only practice
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kundankeshrii/DSA_2/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kundankeshrii/DSA_2/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/kundankeshrii/DSA_2/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/kundankeshrii/DSA_2/tree/master/2540-minimum-common-value) |
@@ -310,6 +311,7 @@ only practice
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2126-destroying-asteroids](https://github.com/kundankeshrii/DSA_2/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2784-check-if-array-is-good](https://github.com/kundankeshrii/DSA_2/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kundankeshrii/DSA_2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -534,6 +536,7 @@ only practice
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kundankeshrii/DSA_2/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/kundankeshrii/DSA_2/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kundankeshrii/DSA_2/tree/master/3075-maximize-happiness-of-selected-children) |
