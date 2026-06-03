@@ -73,6 +73,7 @@ only practice
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -167,6 +168,7 @@ only practice
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
@@ -311,6 +313,7 @@ only practice
 | [0274-h-index](https://github.com/kundankeshrii/DSA_2/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
@@ -546,6 +549,7 @@ only practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kundankeshrii/DSA_2/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kundankeshrii/DSA_2/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
