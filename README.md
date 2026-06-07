@@ -23,6 +23,7 @@ only practice
 | [0125-valid-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/kundankeshrii/DSA_2/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kundankeshrii/DSA_2/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -256,6 +257,7 @@ only practice
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/kundankeshrii/DSA_2/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kundankeshrii/DSA_2/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0208-implement-trie-prefix-tree) |
@@ -449,6 +451,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kundankeshrii/DSA_2/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kundankeshrii/DSA_2/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/kundankeshrii/DSA_2/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -584,6 +587,7 @@ only practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundankeshrii/DSA_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kundankeshrii/DSA_2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/kundankeshrii/DSA_2/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
@@ -810,10 +814,12 @@ only practice
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Minimum Spanning Tree
 |  |
