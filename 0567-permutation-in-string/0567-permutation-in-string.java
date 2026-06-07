@@ -1,24 +1,32 @@
+// class Solution {
+//     public boolean checkInclusion(String s1, String s2) {
+//         char[] temp1=s1.toCharArray();
+//         Arrays.sort(temp1);
+//         s1=new String(temp1);
+//         int k=s1.length();
+//         for(int r=0;r+k<=s2.length();r++){
+//              String subStr=s2.substring(r,r+k);
+//              char[] arr1=subStr.toCharArray();
+//              Arrays.sort(arr1);
+//             subStr=new String(arr1);
+//             if(s1.equals(subStr)) return true;
+//         }
+//         return false;
+//     }
+// }
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        char[] temp1=s1.toCharArray();
-        Arrays.sort(temp1);
-        s1=new String(temp1);
+        int[] s1A=new int[26];
+        for(char c:s1.toCharArray()){
+            s1A[c-'a']++;
+        }
         int k=s1.length();
-        int l=0;
-        StringBuilder sb=new StringBuilder();
-        for(int r=0;r<s2.length();r++){
-            sb.append(s2.charAt(r));
-            if(r-l+1==k){
-                char arr1[]=sb.toString().toCharArray();
-                Arrays.sort(arr1);
-                if(new String(arr1).contains(s1)) return true;
-            }if(r-l+1>k){
-                sb.deleteCharAt(0);
-                char arr1[]=sb.toString().toCharArray();
-                Arrays.sort(arr1);
-                if(new String(arr1).contains(s1)) return true;
-                l++;
+        for(int i=0;i+k<=s2.length();i++){
+            int[] temp=new int[26];
+            for(int j=i;j<i+k;j++){
+                temp[s2.charAt(j)-'a']++;
             }
+            if(Arrays.equals(temp,s1A)) return true;  //comparing two arrays if their element are same in order 
         }
         return false;
     }
