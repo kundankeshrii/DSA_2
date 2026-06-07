@@ -201,6 +201,7 @@ only practice
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kundankeshrii/DSA_2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/kundankeshrii/DSA_2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kundankeshrii/DSA_2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/kundankeshrii/DSA_2/tree/master/2540-minimum-common-value) |
@@ -272,6 +273,7 @@ only practice
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kundankeshrii/DSA_2/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kundankeshrii/DSA_2/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/kundankeshrii/DSA_2/tree/master/2540-minimum-common-value) |
@@ -634,6 +636,7 @@ only practice
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -732,6 +735,7 @@ only practice
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
 | ------- |
