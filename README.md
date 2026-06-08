@@ -212,6 +212,7 @@ only practice
 | [2553-separate-the-digits-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/kundankeshrii/DSA_2/tree/master/2574-left-and-right-sum-differences) |
+| [2653-sliding-subarray-beauty](https://github.com/kundankeshrii/DSA_2/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/kundankeshrii/DSA_2/tree/master/2661-first-completely-painted-row-or-column) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kundankeshrii/DSA_2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -283,6 +284,7 @@ only practice
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/kundankeshrii/DSA_2/tree/master/2540-minimum-common-value) |
+| [2653-sliding-subarray-beauty](https://github.com/kundankeshrii/DSA_2/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/kundankeshrii/DSA_2/tree/master/2661-first-completely-painted-row-or-column) |
 | [2784-check-if-array-is-good](https://github.com/kundankeshrii/DSA_2/tree/master/2784-check-if-array-is-good) |
@@ -600,6 +602,7 @@ only practice
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2653-sliding-subarray-beauty](https://github.com/kundankeshrii/DSA_2/tree/master/2653-sliding-subarray-beauty) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
