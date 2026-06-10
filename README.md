@@ -246,6 +246,7 @@ only practice
 | [3643-flip-square-submatrix-vertically](https://github.com/kundankeshrii/DSA_2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/kundankeshrii/DSA_2/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kundankeshrii/DSA_2/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -524,6 +525,7 @@ only practice
 | [1425-constrained-subsequence-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1425-constrained-subsequence-sum) |
 | [2402-meeting-rooms-iii](https://github.com/kundankeshrii/DSA_2/tree/master/2402-meeting-rooms-iii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kundankeshrii/DSA_2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -598,6 +600,7 @@ only practice
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kundankeshrii/DSA_2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kundankeshrii/DSA_2/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -827,6 +830,7 @@ only practice
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
