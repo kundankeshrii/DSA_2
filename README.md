@@ -423,6 +423,7 @@ only practice
 | [2961-double-modular-exponentiation](https://github.com/kundankeshrii/DSA_2/tree/master/2961-double-modular-exponentiation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kundankeshrii/DSA_2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kundankeshrii/DSA_2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kundankeshrii/DSA_2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -669,6 +670,7 @@ only practice
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -706,6 +708,7 @@ only practice
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
