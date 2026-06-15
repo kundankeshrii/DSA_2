@@ -394,6 +394,7 @@ only practice
 | [0567-permutation-in-string](https://github.com/kundankeshrii/DSA_2/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/kundankeshrii/DSA_2/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundankeshrii/DSA_2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/kundankeshrii/DSA_2/tree/master/2540-minimum-common-value) |
@@ -921,6 +922,7 @@ only practice
 | [0206-reverse-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kundankeshrii/DSA_2/tree/master/0725-split-linked-list-in-parts) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
