@@ -50,6 +50,7 @@ only practice
 | [3093-longest-common-suffix-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kundankeshrii/DSA_2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kundankeshrii/DSA_2/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/kundankeshrii/DSA_2/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/kundankeshrii/DSA_2/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -645,6 +646,7 @@ only practice
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundankeshrii/DSA_2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2961-double-modular-exponentiation](https://github.com/kundankeshrii/DSA_2/tree/master/2961-double-modular-exponentiation) |
 | [3379-transformed-array](https://github.com/kundankeshrii/DSA_2/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/kundankeshrii/DSA_2/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/kundankeshrii/DSA_2/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
