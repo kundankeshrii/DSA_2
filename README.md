@@ -257,6 +257,7 @@ only practice
 | [3689-maximum-total-subarray-value-i](https://github.com/kundankeshrii/DSA_2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kundankeshrii/DSA_2/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -310,6 +311,7 @@ only practice
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -327,6 +329,7 @@ only practice
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -373,6 +376,7 @@ only practice
 | [1189-maximum-number-of-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/kundankeshrii/DSA_2/tree/master/2404-most-frequent-even-element) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -531,6 +535,7 @@ only practice
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kundankeshrii/DSA_2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kundankeshrii/DSA_2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -860,6 +865,7 @@ only practice
 | [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -966,6 +972,7 @@ only practice
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kundankeshrii/DSA_2/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
