@@ -44,6 +44,7 @@ only practice
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundankeshrii/DSA_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kundankeshrii/DSA_2/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kundankeshrii/DSA_2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -212,6 +213,7 @@ only practice
 | [1895-largest-magic-square](https://github.com/kundankeshrii/DSA_2/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundankeshrii/DSA_2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kundankeshrii/DSA_2/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kundankeshrii/DSA_2/tree/master/2091-removing-minimum-and-maximum-from-array) |
