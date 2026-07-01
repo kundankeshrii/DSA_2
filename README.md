@@ -133,6 +133,7 @@ only practice
 | [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kundankeshrii/DSA_2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/kundankeshrii/DSA_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
@@ -344,6 +345,7 @@ only practice
 | [0015-3sum](https://github.com/kundankeshrii/DSA_2/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kundankeshrii/DSA_2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kundankeshrii/DSA_2/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
@@ -398,6 +400,7 @@ only practice
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kundankeshrii/DSA_2/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/kundankeshrii/DSA_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kundankeshrii/DSA_2/tree/master/0086-partition-list) |
