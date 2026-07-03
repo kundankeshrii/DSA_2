@@ -5,17 +5,16 @@ class Solution {
         int max=Integer.MIN_VALUE;
         while(i<j){
             if(height[i]<height[j]){
-            int width=j-i;
-            int area=Math.min(height[i],height[j])*width;
-            max=Math.max(max,area);
-            i++;
+                int width=j-i;
+                int area=width*height[i];
+                max=Math.max(max,area);
+                i++;
             }else{
                 int width=j-i;
-                int area=Math.min(height[i],height[j])*width;
+                int area=width*height[j];
                 max=Math.max(max,area);
                 j--;
             }
-            
         }
         return max;
     }
