@@ -186,6 +186,7 @@ only practice
 | [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
@@ -300,6 +301,7 @@ only practice
 | [0347-top-k-frequent-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kundankeshrii/DSA_2/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/kundankeshrii/DSA_2/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kundankeshrii/DSA_2/tree/master/0567-permutation-in-string) |
