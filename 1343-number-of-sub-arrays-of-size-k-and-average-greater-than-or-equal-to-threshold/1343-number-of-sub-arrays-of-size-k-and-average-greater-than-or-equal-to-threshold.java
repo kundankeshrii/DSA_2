@@ -1,19 +1,22 @@
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
+        int n=arr.length;
         int sum=0;
         for(int i=0;i<k;i++){
             sum+=arr[i];
         }
-         //Average==Sum/k and required==>  sum/k>=threshold i.e sum>=threshold
+        //core concept 
+        //avg=sum/k  ...sum/k>=threshold
+        // .ie sum>=threshold*k
+
         int cnt=0;
         if(sum>=threshold*k){
-            cnt++;
-        }
-        for(int i=k;i<arr.length;i++){
-            sum=sum-arr[i-k]+arr[i];  //arr[i-k]===left wala element
-                                        //arr[i]===current wala element
+                cnt++;
+            }
+        for(int i=k;i<n;i++){
+            sum=sum-arr[i-k]+arr[i];
             if(sum>=threshold*k) cnt++;
-        }
+            }
         return cnt;
     }
 }
