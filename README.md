@@ -203,6 +203,7 @@ only practice
 | [0994-rotting-oranges](https://github.com/kundankeshrii/DSA_2/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
+| [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1306-jump-game-iii) |
@@ -616,6 +617,7 @@ only practice
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0427-construct-quad-tree) |
 | [0994-rotting-oranges](https://github.com/kundankeshrii/DSA_2/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -694,6 +696,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
+| [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundankeshrii/DSA_2/tree/master/2161-partition-array-according-to-given-pivot) |
