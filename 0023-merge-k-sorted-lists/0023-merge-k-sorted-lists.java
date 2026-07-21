@@ -11,7 +11,7 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<ListNode>pq=new PriorityQueue<>((a,b)->Integer.compare(a.val,b.val));
-        for(ListNode node: lists){
+        for(ListNode node:lists){
             if(node!=null){
                 pq.add(node);
             }
@@ -25,7 +25,6 @@ class Solution {
             if(curr.next!=null){
                 pq.add(curr.next);
             }
-
         }
         return dummy.next;
     }
