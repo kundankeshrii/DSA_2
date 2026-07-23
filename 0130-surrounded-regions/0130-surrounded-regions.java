@@ -26,20 +26,20 @@ class Solution {
                 }
             }
         }
+        
     }
-    private void dfs(int row,int col,int[][] vis,char[][] board){
-        vis[row][col]=1;
+    private void dfs(int r,int c,int[][] vis,char[][] board){
+        vis[r][c]=1;
         int m=board.length;
         int n=board[0].length;
-        int dR[]={-1,0,1,0};
-        int dC[]={0,1,0,-1};
+        int[] dr={-1,0,1,0};
+        int[] dc={0,1,0,-1};
         for(int i=0;i<4;i++){
-            int nR=row+dR[i];
-            int nC=col+dC[i];
-            if(nR>=0 && nR<m && nC>=0 && nC<n && vis[nR][nC]==0 && board[nR][nC]=='O'){
-                dfs(nR,nC,vis,board);
+            int nr=r+dr[i];
+            int nc=c+dc[i];
+            if(nr>=0 && nr<m && nc>=0 && nc<n && vis[nr][nc]==0 && board[nr][nc]=='O'){
+                dfs(nr,nc,vis,board);
             }
         }
-
     }
 }
