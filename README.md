@@ -265,6 +265,7 @@ only practice
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/kundankeshrii/DSA_2/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/kundankeshrii/DSA_2/tree/master/3453-separate-squares-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kundankeshrii/DSA_2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kundankeshrii/DSA_2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kundankeshrii/DSA_2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -480,6 +481,7 @@ only practice
 | [2961-double-modular-exponentiation](https://github.com/kundankeshrii/DSA_2/tree/master/2961-double-modular-exponentiation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kundankeshrii/DSA_2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kundankeshrii/DSA_2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kundankeshrii/DSA_2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -542,6 +544,7 @@ only practice
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/kundankeshrii/DSA_2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Graph
 |  |
