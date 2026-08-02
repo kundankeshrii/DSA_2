@@ -86,6 +86,7 @@ only practice
 | [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1425-constrained-subsequence-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1425-constrained-subsequence-sum) |
@@ -202,6 +203,7 @@ only practice
 | [0724-find-pivot-index](https://github.com/kundankeshrii/DSA_2/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kundankeshrii/DSA_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/kundankeshrii/DSA_2/tree/master/0994-rotting-oranges) |
@@ -479,6 +481,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kundankeshrii/DSA_2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
@@ -1084,4 +1087,8 @@ only practice
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
