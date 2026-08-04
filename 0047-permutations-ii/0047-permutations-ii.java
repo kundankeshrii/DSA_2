@@ -1,25 +1,26 @@
 class Solution {
-    List<List<Integer>> ans=new ArrayList<>();
-    boolean[] used;
+    List<List<Integer>>ans;
+    boolean[] visited;
     public List<List<Integer>> permuteUnique(int[] nums) {
+        visited=new boolean[nums.length];
+        ans=new ArrayList<>();
         Arrays.sort(nums);
-        used=new boolean[nums.length];
-        backTrack(nums,new ArrayList<>());
+        fun(nums,new ArrayList<>());
         return ans;
     }
-    private void backTrack(int[] nums,List<Integer>path){
+    private void fun(int[] nums,List<Integer>path){
         if(path.size()==nums.length){
             ans.add(new ArrayList<>(path));
             return;
         }
         for(int i=0;i<nums.length;i++){
-            if(used[i]) continue;
-            if(i>0 && nums[i]==nums[i-1] && !used[i-1]) continue;
-            used[i]=true;
+            if(visited[i]) continue;
+            if(i>0 && nums[i-1]==nums[i] && !visited[i-1]) continue;
+            visited[i]=true;
             path.add(nums[i]);
-            backTrack(nums,path);
+            fun(nums,path);
             path.remove(path.size()-1);
-            used[i]=false;
+            visited[i]=false;
         }
     }
 }
