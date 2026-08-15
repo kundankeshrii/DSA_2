@@ -284,6 +284,7 @@ only practice
 | [3660-jump-game-ix](https://github.com/kundankeshrii/DSA_2/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kundankeshrii/DSA_2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kundankeshrii/DSA_2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/kundankeshrii/DSA_2/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -568,6 +569,7 @@ only practice
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundankeshrii/DSA_2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kundankeshrii/DSA_2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph
 |  |
 | ------- |
