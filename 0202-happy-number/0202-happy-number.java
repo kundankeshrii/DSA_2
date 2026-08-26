@@ -5,20 +5,20 @@ class Solution {
         do{
             slow=findSquare(slow);
             fast=findSquare(findSquare(fast));
-            
         }while(slow!=fast);
         if(slow==1){
-        return true;
+            return true;
+        }else {
+            return false;
         }
-        return false;
+    }
+    private int findSquare(int n){
+        int sum=0;
+        while(n>0){
+            int r=n%10;
+            sum+=r*r;
+            n/=10;
         }
-    private int findSquare(int num){
-        int ans=0;
-        while(num>0){
-            int rem=num%10;
-            ans+=rem*rem;
-            num/=10;
-            }
-        return ans;
+        return sum;
     }
 }
