@@ -951,6 +951,7 @@ only practice
 | [1148-article-views-i](https://github.com/kundankeshrii/DSA_2/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/kundankeshrii/DSA_2/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kundankeshrii/DSA_2/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/kundankeshrii/DSA_2/tree/master/1873-calculate-special-bonus) |
 ## Binary Search Tree
 |  |
 | ------- |
