@@ -951,6 +951,7 @@ only practice
 | [0584-find-customer-referee](https://github.com/kundankeshrii/DSA_2/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kundankeshrii/DSA_2/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/kundankeshrii/DSA_2/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/kundankeshrii/DSA_2/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/kundankeshrii/DSA_2/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/kundankeshrii/DSA_2/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kundankeshrii/DSA_2/tree/master/1757-recyclable-and-low-fat-products) |
