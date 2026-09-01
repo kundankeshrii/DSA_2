@@ -953,6 +953,7 @@ only practice
 | [0620-not-boring-movies](https://github.com/kundankeshrii/DSA_2/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/kundankeshrii/DSA_2/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/kundankeshrii/DSA_2/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/kundankeshrii/DSA_2/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/kundankeshrii/DSA_2/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/kundankeshrii/DSA_2/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/kundankeshrii/DSA_2/tree/master/1683-invalid-tweets) |
