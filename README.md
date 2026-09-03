@@ -962,6 +962,7 @@ only practice
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kundankeshrii/DSA_2/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/kundankeshrii/DSA_2/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/kundankeshrii/DSA_2/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/kundankeshrii/DSA_2/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kundankeshrii/DSA_2/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/kundankeshrii/DSA_2/tree/master/1873-calculate-special-bonus) |
 ## Binary Search Tree
