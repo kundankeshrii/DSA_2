@@ -795,6 +795,7 @@ only practice
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kundankeshrii/DSA_2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -836,6 +837,7 @@ only practice
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kundankeshrii/DSA_2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -904,6 +906,7 @@ only practice
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kundankeshrii/DSA_2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
 |  |
 | ------- |
