@@ -498,6 +498,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/kundankeshrii/DSA_2/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kundankeshrii/DSA_2/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -921,6 +922,7 @@ only practice
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/kundankeshrii/DSA_2/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 ## Union Find
 |  |
