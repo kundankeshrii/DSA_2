@@ -16,15 +16,34 @@
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         ArrayList<Integer>ans=new ArrayList<>();
-        dfs(root,0,ans);
-        return ans;
-    }
-    private void dfs(TreeNode root,int level,ArrayList<Integer>ans){
-        if(root==null) return ;
-        if(level==ans.size()){
-            ans.add(root.val);
+        Map<Integer,Integer>mpp=new TreeMap<>();
+        Queue<Pair>q=new LinkedList<>();
+        if(root==null) return ans;
+        q.add(new Pair(root,0));
+        while(!q.isEmpty()){
+            Pair it=q.poll();
+            TreeNode node=it.node;
+            int level=it.level;
+            mpp.put(level,node.val);
+            if(node.left!=null){
+                q.add(new Pair(node.left,level+1));
+            }
+            if(node.right!=null){
+                q.add(new Pair(node.right,level+1));
+            }
         }
-        dfs(root.right,level+1,ans);
-        dfs(root.left,level+1,ans);
+        ans.addAll(mpp.values());
+        return ans;
+        
     }
 }
+class Pair{
+    TreeNode node;
+    int level;
+    Pair(TreeNode node,int level){
+        this.node=node;
+        this.level=level;
+    }
+}
+
+ 
