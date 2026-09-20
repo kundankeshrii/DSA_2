@@ -55,6 +55,7 @@ only practice
 | [3093-longest-common-suffix-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kundankeshrii/DSA_2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kundankeshrii/DSA_2/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kundankeshrii/DSA_2/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/kundankeshrii/DSA_2/tree/master/3713-longest-balanced-substring-i) |
@@ -764,6 +765,7 @@ only practice
 | [2961-double-modular-exponentiation](https://github.com/kundankeshrii/DSA_2/tree/master/2961-double-modular-exponentiation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kundankeshrii/DSA_2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/kundankeshrii/DSA_2/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kundankeshrii/DSA_2/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kundankeshrii/DSA_2/tree/master/3838-weighted-word-mapping) |
