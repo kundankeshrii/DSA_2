@@ -990,6 +990,7 @@ only practice
 | [1280-students-and-examinations](https://github.com/kundankeshrii/DSA_2/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kundankeshrii/DSA_2/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/kundankeshrii/DSA_2/tree/master/1393-capital-gainloss) |
+| [1587-bank-account-summary-ii](https://github.com/kundankeshrii/DSA_2/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kundankeshrii/DSA_2/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/kundankeshrii/DSA_2/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/kundankeshrii/DSA_2/tree/master/1683-invalid-tweets) |
