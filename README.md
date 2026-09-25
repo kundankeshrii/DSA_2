@@ -85,6 +85,7 @@ only practice
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
@@ -196,6 +197,7 @@ only practice
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kundankeshrii/DSA_2/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1173,4 +1175,12 @@ only practice
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
