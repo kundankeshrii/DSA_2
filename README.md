@@ -1181,6 +1181,7 @@ only practice
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -1190,4 +1191,8 @@ only practice
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kundankeshrii/DSA_2/tree/master/0146-lru-cache) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
