@@ -324,6 +324,7 @@ only practice
 | [0138-copy-list-with-random-pointer](https://github.com/kundankeshrii/DSA_2/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kundankeshrii/DSA_2/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kundankeshrii/DSA_2/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/kundankeshrii/DSA_2/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/kundankeshrii/DSA_2/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/kundankeshrii/DSA_2/tree/master/0187-repeated-dna-sequences) |
@@ -1055,6 +1056,7 @@ only practice
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kundankeshrii/DSA_2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kundankeshrii/DSA_2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0208-implement-trie-prefix-tree) |
@@ -1105,6 +1107,7 @@ only practice
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kundankeshrii/DSA_2/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kundankeshrii/DSA_2/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kundankeshrii/DSA_2/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kundankeshrii/DSA_2/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
@@ -1183,4 +1186,8 @@ only practice
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kundankeshrii/DSA_2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
