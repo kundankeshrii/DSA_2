@@ -1,25 +1,23 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n=coins.length;
-        int[][]dp=new int[n][amount+1];
-        for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+        int[]prev=new int[amount+1];
+        for(int T=0;T<=amount;T++){
+            if(T%coins[0]==0) prev[T]=T/coins[0];
+            else prev[T]= (int)1e9;
         }
-        int ans=fun(n-1,amount,coins,dp);
-        return ans>=1e9?-1:ans;
-    }
-    private int fun(int idx,int target,int[] coins,int[][] dp){
-        if(idx==0){
-            if(target%coins[0]==0) return target/coins[0];
-            else return (int)1e9;
+        for(int idx=1;idx<n;idx++){
+            int[]curr=new int[amount+1];
+            for(int target=0;target<=amount;target++){
+                int notTake=0+prev[target];
+                int take=Integer.MAX_VALUE;
+                if(coins[idx]<=target){
+                    take=1+curr[target-coins[idx]];
+                }
+                curr[target]=Math.min(take,notTake);
+            }
+            prev=curr;
         }
-        if(dp[idx][target]!=-1) return dp[idx][target];
-        int notTake=0+fun(idx-1,target,coins,dp);
-        int take=Integer.MAX_VALUE;
-        if(coins[idx]<=target){
-            take=1+fun(idx,target-coins[idx],coins,dp);
-        }
-        return dp[idx][target]= Math.min(take,notTake);
-        
+        return prev[amount]!=1e9?prev[amount]:-1;
     }
 }
