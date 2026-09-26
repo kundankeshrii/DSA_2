@@ -114,6 +114,7 @@ only practice
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -209,6 +210,7 @@ only practice
 | [0713-subarray-product-less-than-k](https://github.com/kundankeshrii/DSA_2/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kundankeshrii/DSA_2/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
+| [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/kundankeshrii/DSA_2/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/kundankeshrii/DSA_2/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
@@ -762,6 +764,7 @@ only practice
 | [0067-add-binary](https://github.com/kundankeshrii/DSA_2/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kundankeshrii/DSA_2/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/kundankeshrii/DSA_2/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1914-cyclically-rotating-a-grid) |
