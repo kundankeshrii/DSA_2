@@ -88,6 +88,7 @@ only practice
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
@@ -206,6 +207,7 @@ only practice
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
@@ -980,6 +982,7 @@ only practice
 | [0113-path-sum-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/kundankeshrii/DSA_2/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kundankeshrii/DSA_2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Database
 |  |
@@ -1188,10 +1191,12 @@ only practice
 | ------- |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
