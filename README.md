@@ -40,6 +40,7 @@ only practice
 | [0796-rotate-string](https://github.com/kundankeshrii/DSA_2/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kundankeshrii/DSA_2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -117,6 +118,7 @@ only practice
 | [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/kundankeshrii/DSA_2/tree/master/2390-removing-stars-from-a-string) |
@@ -1198,4 +1200,8 @@ only practice
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kundankeshrii/DSA_2/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
