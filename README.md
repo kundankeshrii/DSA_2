@@ -117,6 +117,7 @@ only practice
 | [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -938,6 +939,7 @@ only practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kundankeshrii/DSA_2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kundankeshrii/DSA_2/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
@@ -1071,6 +1073,7 @@ only practice
 | [0211-design-add-and-search-words-data-structure](https://github.com/kundankeshrii/DSA_2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
+| [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 ## Counting Sort
 |  |
@@ -1148,6 +1151,7 @@ only practice
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
