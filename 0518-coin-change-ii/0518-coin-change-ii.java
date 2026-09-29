@@ -1,26 +1,22 @@
 class Solution {
-    public int change(int amount, int[] coins) {
-        int n=coins.length;
+    public int change(int amount, int[] arr) {
+        int n=arr.length;
         int[][]dp=new int[n][amount+1];
-        for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
-        }
-        return fun(n-1,amount,coins,dp);
-    }
-    private int fun(int idx,int target,int arr[],int[][]dp){
-        if(idx==0){
+        for(int target=0;target<=amount;target++){
             if(target%arr[0]==0){
-                return 1;
-            }else{
-                return 0;
+                dp[0][target]=1;
             }
         }
-        if(dp[idx][target]!=-1) return dp[idx][target];
-        int notTake=fun(idx-1,target,arr,dp);
-        int take=0;
-        if(arr[idx]<=target){
-            take=fun(idx,target-arr[idx],arr,dp);
+        for(int idx=1;idx<n;idx++){ 
+            for(int target=0;target<=amount;target++){
+                int notTake=dp[idx-1][target];
+                int take=0;
+                if(arr[idx]<=target){
+                    take=dp[idx][target-arr[idx]];
+                }
+                dp[idx][target]=notTake+take;
+            }
         }
-        return dp[idx][target]=notTake+take;
+        return dp[n-1][amount];
     }
 }
