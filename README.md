@@ -44,6 +44,7 @@ only practice
 | [1143-longest-common-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kundankeshrii/DSA_2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +100,7 @@ only practice
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1425-constrained-subsequence-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1425-constrained-subsequence-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
