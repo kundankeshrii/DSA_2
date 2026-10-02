@@ -1,18 +1,35 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String>result=new ArrayList<>();
-        fun("",0,0,result,n);
-        return result;
+        List<String>ans=new ArrayList<>();
+        StringBuilder sb=new StringBuilder();
+        fun(0,sb,n,ans);
+        return ans;
     }
-    private void fun(String str,int open,int close,List<String>result,int max){
-        if(str.length()==2*max){
-            result.add(str);
+    private void fun(int idx,StringBuilder sb,int n,List<String>ans){
+        if(sb.length()==2*n){
+            if(isValid(sb.toString())){
+                ans.add(sb.toString());
+                 
+            }
+            return;
         }
-        if(open<max){
-            fun(str+"(",open+1,close,result,max);
+        sb.append("(");
+        fun(idx+1,sb,n,ans);
+        sb.deleteCharAt(sb.length()-1);
+        sb.append(")");
+        fun(idx+1,sb,n,ans);
+        sb.deleteCharAt(sb.length()-1);
+    }
+    private boolean isValid(String s){
+        int cnt=0;
+        for(char c:s.toCharArray()){
+            if(c=='('){
+                cnt++;
+            }else{
+                cnt--;
+            }
+            if(cnt<0) return false;
         }
-        if(close<open){
-            fun(str+")",open,close+1,result,max);
-        }
+        return cnt==0;
     }
 }
