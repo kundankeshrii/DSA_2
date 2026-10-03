@@ -1,30 +1,25 @@
 class Solution {
     public int maxProfit(int k, int[] prices) {
-        int n = prices.length;
-        
-        // edge case
-        if(k >= n/2) {
-            int profit = 0;
-            for(int i = 1; i < n; i++) {
-                if(prices[i] > prices[i-1]) {
-                    profit += prices[i] - prices[i-1];
+        int n=prices.length;
+        int[][]after=new int[2][k+1];
+        for(int idx=n-1;idx>=0;idx--){
+            int[][]curr=new int[2][k+1];
+            for(int buy=0;buy<=1;buy++){
+                for(int cap=1;cap<=k;cap++){
+                    if(buy==1){
+                        int take=-prices[idx]+after[0][cap];
+                        int notTake=after[1][cap];
+                        curr[buy][cap]=Math.max(notTake,take);
+                    }else{
+                        int sell=prices[idx]+after[1][cap-1];
+                        int notSell=after[0][cap];
+                        curr[buy][cap]=Math.max(sell,notSell);
+                    }
+                    
                 }
             }
-            return profit;
+            after=curr;
         }
-
-        int[] buy = new int[k+1];
-        int[] sell = new int[k+1];
-
-        Arrays.fill(buy, Integer.MIN_VALUE);
-
-        for(int price : prices) {
-            for(int j = 1; j <= k; j++) {
-                buy[j] = Math.max(buy[j], sell[j-1] - price);
-                sell[j] = Math.max(sell[j], buy[j] + price);
-            }
-        }
-
-        return sell[k];
+        return after[1][k];
     }
 }
