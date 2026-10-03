@@ -1236,6 +1236,7 @@ only practice
 | ------- |
 | [0020-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Common Subsequence
 |  |
