@@ -1,29 +1,31 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int n=s.length();
-        boolean[][]dp=new boolean[n+1][n+1];
-        dp[n][0]=true;;
-        for(int i=n-1;i>=0;i--){
-            for(int open=0;open<=n;open++){
-                char c=s.charAt(i);
-                if(c=='('){
-                    if(open<n){
-                        dp[i][open]=dp[i+1][open+1];
-                    }
-                }else if(c=='*'){
-                    if(open<n){
-                        dp[i][open]=dp[i+1][open+1] || dp[i+1][open] ;
-                    }
-                    if(open>0){
-                         dp[i][open]=dp[i+1][open-1] || dp[i][open];
-                    }
+        Stack<Integer>st1=new Stack<>();
+        Stack<Integer>st2=new Stack<>();
+        for(int i=0;i<s.length();i++){
+            char c=s.charAt(i);
+            if(c=='('){
+                st1.add(i);
+            }else if(c=='*'){
+                st2.add(i);
+            }else{
+                if(!st1.isEmpty()){
+                    st1.pop();
+                }else if(!st2.isEmpty()){
+                    st2.pop();
                 }else{
-                    if(open>0){
-                        dp[i][open]=dp[i+1][open-1];
-                    }
+                    return false;
                 }
+
             }
         }
-        return dp[0][0];  
-    } 
+        while(!st1.isEmpty() && !st2.isEmpty()){
+            if(st1.peek()>st2.peek()){
+                return false;
+            }
+            st1.pop();
+            st2.pop();
+        }
+        return st1.isEmpty();
+    }
 }
