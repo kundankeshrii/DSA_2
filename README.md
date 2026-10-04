@@ -323,6 +323,7 @@ only practice
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kundankeshrii/DSA_2/tree/master/3643-flip-square-submatrix-vertically) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kundankeshrii/DSA_2/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3660-jump-game-ix](https://github.com/kundankeshrii/DSA_2/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kundankeshrii/DSA_2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -659,6 +660,7 @@ only practice
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kundankeshrii/DSA_2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kundankeshrii/DSA_2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kundankeshrii/DSA_2/tree/master/3546-equal-sum-grid-partition-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kundankeshrii/DSA_2/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -787,6 +789,7 @@ only practice
 | [2653-sliding-subarray-beauty](https://github.com/kundankeshrii/DSA_2/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kundankeshrii/DSA_2/tree/master/3634-minimum-removals-to-balance-array) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kundankeshrii/DSA_2/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Simulation
 |  |
 | ------- |
