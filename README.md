@@ -41,6 +41,7 @@ only practice
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/kundankeshrii/DSA_2/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kundankeshrii/DSA_2/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
@@ -104,6 +105,7 @@ only practice
 | [0516-longest-palindromic-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
@@ -134,6 +136,7 @@ only practice
 | [0173-binary-search-tree-iterator](https://github.com/kundankeshrii/DSA_2/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/kundankeshrii/DSA_2/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
@@ -740,6 +743,7 @@ only practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1239,6 +1243,7 @@ only practice
 | [0020-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Common Subsequence
 |  |
