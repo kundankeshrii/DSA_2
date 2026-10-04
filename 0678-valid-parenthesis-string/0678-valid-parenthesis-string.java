@@ -1,34 +1,29 @@
 class Solution {
     public boolean checkValidString(String s) {
         int n=s.length();
-        int[][]dp=new int[n+1][n+1];
-        for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
-        }
-        return fun(0,0,s,false,dp);
-        
-    }
-    private boolean fun(int i,int open,String s,boolean isValid,int[][]dp){
-        if(open<0) return true;
-        if(i==s.length()){
-            return open==0;
-        }
-        if(dp[i][open]!=-1) return dp[i][open]==1;
-        char c=s.charAt(i);
-        if(c=='('){
-            isValid=fun(i+1,open+1,s,isValid,dp);
-        }else if(c=='*'){
-            isValid=fun(i+1,open+1,s,isValid,dp) || fun(i+1,open,s,isValid,dp);
-            if(open>0){
-                isValid=fun(i+1,open-1,s,isValid,dp) || isValid;
-            }  
-        }else{
-            if(open>0){
-                isValid=fun(i+1,open-1,s,isValid,dp);
+        boolean[][]dp=new boolean[n+1][n+1];
+        dp[n][0]=true;;
+        for(int i=n-1;i>=0;i--){
+            for(int open=0;open<=n;open++){
+                char c=s.charAt(i);
+                if(c=='('){
+                    if(open<n){
+                        dp[i][open]=dp[i+1][open+1];
+                    }
+                }else if(c=='*'){
+                    if(open<n){
+                        dp[i][open]=dp[i+1][open+1] || dp[i+1][open] ;
+                    }
+                    if(open>0){
+                         dp[i][open]=dp[i+1][open-1] || dp[i][open];
+                    }
+                }else{
+                    if(open>0){
+                        dp[i][open]=dp[i+1][open-1];
+                    }
+                }
             }
         }
-        dp[i][open]=isValid ?1:0;
-        return isValid;
-    }
-    
+        return dp[0][0];  
+    } 
 }
