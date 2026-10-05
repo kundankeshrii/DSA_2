@@ -1,20 +1,16 @@
 class Solution {
     public int scoreOfParentheses(String s) {
-        int previous=0;
+        int depth=0;
         int score=0;
-        List<Integer>list=new ArrayList<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(ch=='('){
-                list.add(score);
-                score=0;
+                depth++;
             }else{
+                depth--;
                 if(s.charAt(i-1)=='('){
-                    score=list.get(list.size()-1)+1;
-                }else{
-                    score=list.get(list.size()-1)+(2*score);
-                }
-                list.remove(list.size()-1);
+                    score+=(1<<depth);
+                } 
             }
         }
         return score;
