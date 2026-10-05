@@ -1256,4 +1256,8 @@ only practice
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/kundankeshrii/DSA_2/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
