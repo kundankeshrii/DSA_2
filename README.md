@@ -45,6 +45,7 @@ only practice
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kundankeshrii/DSA_2/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundankeshrii/DSA_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/kundankeshrii/DSA_2/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/1143-longest-common-subsequence) |
@@ -141,6 +142,7 @@ only practice
 | [0735-asteroid-collision](https://github.com/kundankeshrii/DSA_2/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundankeshrii/DSA_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -748,6 +750,7 @@ only practice
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundankeshrii/DSA_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1250,6 +1253,7 @@ only practice
 | [0032-longest-valid-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundankeshrii/DSA_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Common Subsequence
 |  |
