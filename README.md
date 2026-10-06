@@ -109,6 +109,7 @@ only practice
 | [0516-longest-palindromic-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
@@ -243,6 +244,7 @@ only practice
 | [0518-coin-change-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kundankeshrii/DSA_2/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kundankeshrii/DSA_2/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kundankeshrii/DSA_2/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
@@ -1075,6 +1077,7 @@ only practice
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
@@ -1225,6 +1228,7 @@ only practice
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/kundankeshrii/DSA_2/tree/master/3161-block-placement-queries) |
 ## Ordered Set
 |  |
@@ -1274,4 +1278,5 @@ only practice
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
