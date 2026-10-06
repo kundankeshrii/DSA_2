@@ -47,6 +47,7 @@ only practice
 | [0856-score-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundankeshrii/DSA_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kundankeshrii/DSA_2/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/1189-maximum-number-of-balloons) |
@@ -112,6 +113,7 @@ only practice
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
+| [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/kundankeshrii/DSA_2/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -253,6 +255,7 @@ only practice
 | [0994-rotting-oranges](https://github.com/kundankeshrii/DSA_2/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
+| [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -382,6 +385,7 @@ only practice
 | [0567-permutation-in-string](https://github.com/kundankeshrii/DSA_2/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kundankeshrii/DSA_2/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kundankeshrii/DSA_2/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kundankeshrii/DSA_2/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/1331-rank-transform-of-an-array) |
@@ -452,6 +456,7 @@ only practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
+| [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -516,6 +521,7 @@ only practice
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kundankeshrii/DSA_2/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/kundankeshrii/DSA_2/tree/master/0696-count-binary-substrings) |
+| [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1861-rotating-the-box](https://github.com/kundankeshrii/DSA_2/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
