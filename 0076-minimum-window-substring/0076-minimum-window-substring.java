@@ -1,33 +1,38 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(s.length()<t.length()) return "";
-        int cnt=t.length();
-        int left=0;
-        int minLen=Integer.MAX_VALUE;
-        int start=0;
-        int[] freq=new int[128];//for ascii fixed values
-        for(char c:t.toCharArray()){
-            freq[c]++;
+        if(t.length()>s.length()) return "";
+        Map<Character,Integer>mpp=new HashMap<>();
+        for(int i=0;i<t.length();i++){
+            char ch=t.charAt(i);
+            mpp.put(ch,mpp.getOrDefault(ch,0)+1);
         }
-        for(int right=0;right<s.length();right++){
-            char ch=s.charAt(right);
-            if(freq[ch]>0){
-                cnt--;
+        int reqCnt=t.length();
+        int i=0,j=0;
+        int start_idx=0;
+        int minWindowSize=Integer.MAX_VALUE;
+        while(j<s.length()){
+            char ch=s.charAt(j);
+            if(mpp.containsKey(ch) && mpp.get(ch)>0){
+                reqCnt--;
             }
-            freq[ch]--;//include this in window
-            while(cnt==0){
-                if(right-left+1<minLen){
-                    minLen=right-left+1;
-                    start=left;
+            mpp.put(ch,mpp.getOrDefault(ch,0)-1);
+            while(reqCnt==0){
+                int currWindowSize=j-i+1;
+                if(minWindowSize>currWindowSize){
+                    minWindowSize= currWindowSize;
+                    start_idx=i;
                 }
-                char leftChar=s.charAt(left);
-                freq[leftChar]++;//remove from window
-                if(freq[leftChar]>0){
-                    cnt++;
+
+                char left=s.charAt(i);
+                mpp.put(left,mpp.getOrDefault(left,0)+1);
+                if(mpp.containsKey(left) && mpp.get(left)>0){
+                    reqCnt++;
                 }
-                left++;
+                i++;
             }
+            j++;
         }
-        return minLen==Integer.MAX_VALUE ? "":s.substring(start,start+minLen);
+        return minWindowSize==Integer.MAX_VALUE ? "":s.substring(start_idx,start_idx+minWindowSize);
+
     }
 }
