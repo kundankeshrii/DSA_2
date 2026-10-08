@@ -1271,6 +1271,7 @@ only practice
 | [0678-valid-parenthesis-string](https://github.com/kundankeshrii/DSA_2/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kundankeshrii/DSA_2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kundankeshrii/DSA_2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Common Subsequence
 |  |
