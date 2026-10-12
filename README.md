@@ -307,6 +307,7 @@ only practice
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kundankeshrii/DSA_2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kundankeshrii/DSA_2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/kundankeshrii/DSA_2/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kundankeshrii/DSA_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/kundankeshrii/DSA_2/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundankeshrii/DSA_2/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -408,6 +409,7 @@ only practice
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/kundankeshrii/DSA_2/tree/master/2661-first-completely-painted-row-or-column) |
 | [2784-check-if-array-is-good](https://github.com/kundankeshrii/DSA_2/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kundankeshrii/DSA_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kundankeshrii/DSA_2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -648,6 +650,7 @@ only practice
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kundankeshrii/DSA_2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kundankeshrii/DSA_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundankeshrii/DSA_2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kundankeshrii/DSA_2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -785,6 +788,7 @@ only practice
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kundankeshrii/DSA_2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kundankeshrii/DSA_2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kundankeshrii/DSA_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kundankeshrii/DSA_2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kundankeshrii/DSA_2/tree/master/3074-apple-redistribution-into-boxes) |
