@@ -122,6 +122,7 @@ only practice
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kundankeshrii/DSA_2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kundankeshrii/DSA_2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1425-constrained-subsequence-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1425-constrained-subsequence-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kundankeshrii/DSA_2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -271,6 +272,7 @@ only practice
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
 | [1425-constrained-subsequence-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kundankeshrii/DSA_2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kundankeshrii/DSA_2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -445,6 +447,7 @@ only practice
 | [0427-construct-quad-tree](https://github.com/kundankeshrii/DSA_2/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kundankeshrii/DSA_2/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/kundankeshrii/DSA_2/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kundankeshrii/DSA_2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -574,6 +577,7 @@ only practice
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kundankeshrii/DSA_2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundankeshrii/DSA_2/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -889,6 +893,7 @@ only practice
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kundankeshrii/DSA_2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kundankeshrii/DSA_2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1000,6 +1005,7 @@ only practice
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kundankeshrii/DSA_2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kundankeshrii/DSA_2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
@@ -1028,6 +1034,7 @@ only practice
 | [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kundankeshrii/DSA_2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -1097,6 +1104,7 @@ only practice
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kundankeshrii/DSA_2/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1157,6 +1165,7 @@ only practice
 | ------- |
 | [0070-climbing-stairs](https://github.com/kundankeshrii/DSA_2/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/kundankeshrii/DSA_2/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
 | ------- |
@@ -1309,4 +1318,12 @@ only practice
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kundankeshrii/DSA_2/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
