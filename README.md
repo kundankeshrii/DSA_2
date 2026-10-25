@@ -264,6 +264,7 @@ only practice
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kundankeshrii/DSA_2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
+| [1254-number-of-closed-islands](https://github.com/kundankeshrii/DSA_2/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -762,6 +763,7 @@ only practice
 | [0542-01-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/kundankeshrii/DSA_2/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/kundankeshrii/DSA_2/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/kundankeshrii/DSA_2/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kundankeshrii/DSA_2/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -945,6 +947,7 @@ only practice
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kundankeshrii/DSA_2/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/kundankeshrii/DSA_2/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -980,6 +983,7 @@ only practice
 | [0994-rotting-oranges](https://github.com/kundankeshrii/DSA_2/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kundankeshrii/DSA_2/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kundankeshrii/DSA_2/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/kundankeshrii/DSA_2/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kundankeshrii/DSA_2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1045,6 +1049,7 @@ only practice
 | [0200-number-of-islands](https://github.com/kundankeshrii/DSA_2/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/kundankeshrii/DSA_2/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kundankeshrii/DSA_2/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/kundankeshrii/DSA_2/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kundankeshrii/DSA_2/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2573-find-the-string-with-lcp](https://github.com/kundankeshrii/DSA_2/tree/master/2573-find-the-string-with-lcp) |
