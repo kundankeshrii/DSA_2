@@ -132,6 +132,7 @@ only practice
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kundankeshrii/DSA_2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/kundankeshrii/DSA_2/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/kundankeshrii/DSA_2/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kundankeshrii/DSA_2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -355,6 +356,7 @@ only practice
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kundankeshrii/DSA_2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/kundankeshrii/DSA_2/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3660-jump-game-ix](https://github.com/kundankeshrii/DSA_2/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/kundankeshrii/DSA_2/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kundankeshrii/DSA_2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kundankeshrii/DSA_2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kundankeshrii/DSA_2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -795,6 +797,7 @@ only practice
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kundankeshrii/DSA_2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kundankeshrii/DSA_2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kundankeshrii/DSA_2/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/kundankeshrii/DSA_2/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kundankeshrii/DSA_2/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
