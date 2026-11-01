@@ -248,6 +248,7 @@ only practice
 | [0435-non-overlapping-intervals](https://github.com/kundankeshrii/DSA_2/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
@@ -589,6 +590,7 @@ only practice
 | [0268-missing-number](https://github.com/kundankeshrii/DSA_2/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/kundankeshrii/DSA_2/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/kundankeshrii/DSA_2/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
