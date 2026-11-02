@@ -250,6 +250,7 @@ only practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0518-coin-change-ii) |
@@ -490,6 +491,7 @@ only practice
 | [0451-sort-characters-by-frequency](https://github.com/kundankeshrii/DSA_2/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kundankeshrii/DSA_2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kundankeshrii/DSA_2/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/kundankeshrii/DSA_2/tree/master/0502-ipo) |
 | [1048-longest-string-chain](https://github.com/kundankeshrii/DSA_2/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/1331-rank-transform-of-an-array) |
@@ -591,6 +593,7 @@ only practice
 | [0368-largest-divisible-subset](https://github.com/kundankeshrii/DSA_2/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/kundankeshrii/DSA_2/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kundankeshrii/DSA_2/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/kundankeshrii/DSA_2/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/kundankeshrii/DSA_2/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
