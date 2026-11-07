@@ -10,30 +10,42 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        int k=2;
         if(head==null || head.next==null) return head;
-        ListNode temp=head;ListNode prevNode=null;ListNode nextNode;
+        int k=2;
+        ListNode temp=head,prevGroup=null,nextGroup=null;
         while(temp!=null){
-            ListNode kthNode=findKthNode(temp,k);
-            if(kthNode==null){
-                if(prevNode!=null){
-                    prevNode.next=temp;
+            ListNode KthNode=findKthNode(temp,k);
+            if(KthNode==null){
+                if(prevGroup!=null){
+                    prevGroup.next=temp;
                     break;
                 }
-            }
-            nextNode=kthNode.next;
-            kthNode.next=null;
-            reverseLL(temp);
-            if(head==temp){
-                head=kthNode;
-            }else{
-                prevNode.next=kthNode;
 
             }
-            prevNode=temp;
-            temp=nextNode;
+            nextGroup=KthNode.next;
+            KthNode.next=null;
+            reverseLL(temp);
+            if(head==temp){
+                head=KthNode;
+            }else{
+                prevGroup.next=KthNode;
+            }
+
+            prevGroup=temp;
+            temp=nextGroup;
         }
         return head;
+    }
+    private ListNode reverseLL(ListNode head){
+        ListNode prev=null;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
+        return prev;
     }
     private ListNode findKthNode(ListNode temp,int k){
         k=k-1;
@@ -42,15 +54,5 @@ class Solution {
             temp=temp.next;
         }
         return temp;
-    }
-    private ListNode reverseLL(ListNode head){
-        ListNode curr=head;ListNode prev=null;
-        while(curr!=null){
-            ListNode next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
-        }
-        return prev;
     }
 }
