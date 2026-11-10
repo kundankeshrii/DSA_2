@@ -25,7 +25,7 @@ class Solution {
 
                 char left=s.charAt(i);
                 mpp.put(left,mpp.getOrDefault(left,0)+1);
-                if(mpp.containsKey(left) && mpp.get(left)>0){
+                if(mpp.get(left)>0){
                     reqCnt++;
                 }
                 i++;
