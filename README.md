@@ -282,6 +282,7 @@ only practice
 | [1331-rank-transform-of-an-array](https://github.com/kundankeshrii/DSA_2/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kundankeshrii/DSA_2/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundankeshrii/DSA_2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kundankeshrii/DSA_2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
 | [1425-constrained-subsequence-sum](https://github.com/kundankeshrii/DSA_2/tree/master/1425-constrained-subsequence-sum) |
@@ -612,6 +613,7 @@ only practice
 | [0877-stone-game](https://github.com/kundankeshrii/DSA_2/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundankeshrii/DSA_2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kundankeshrii/DSA_2/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/kundankeshrii/DSA_2/tree/master/1390-four-divisors) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kundankeshrii/DSA_2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
@@ -733,6 +735,7 @@ only practice
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/kundankeshrii/DSA_2/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kundankeshrii/DSA_2/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kundankeshrii/DSA_2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/kundankeshrii/DSA_2/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kundankeshrii/DSA_2/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1220,6 +1223,7 @@ only practice
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
 | [0731-my-calendar-ii](https://github.com/kundankeshrii/DSA_2/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/kundankeshrii/DSA_2/tree/master/1622-fancy-sequence) |
 ## Counting Sort
 |  |
@@ -1301,6 +1305,7 @@ only practice
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kundankeshrii/DSA_2/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/kundankeshrii/DSA_2/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kundankeshrii/DSA_2/tree/master/1352-product-of-the-last-k-numbers) |
 ## Merge Sort
 |  |
 | ------- |
